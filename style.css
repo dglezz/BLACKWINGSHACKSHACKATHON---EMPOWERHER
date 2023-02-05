@@ -1,0 +1,114 @@
+body {
+  font-family: Trebuchet, Helvetica, sans-serif;
+  padding: 1em;
+  color: black;
+  
+}
+
+.topnav {
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  display: inline-block;
+  list-style-type: none;
+  overflow: hidden;
+  /*padding: 1em;*/
+  background-color: white;
+  
+}
+
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+.topnav a:active {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Create a right-aligned (split) link inside the navigation bar */
+.topnav a.split {
+  
+  float: right;
+  
+  background-color: white;
+  color: black;
+  
+}
+
+.btn {
+  
+  border-radius: 18px; /*curve*/
+  border: none; /* Remove borders */
+  color: white; /* Add a text color */
+  font-size: 16px;
+  padding: 14px 28px; /* Add some padding */
+}
+
+.btn:hover {
+  background-color: #f5e9f7;
+  cursor: pointer;
+}
+
+.btn2 {
+  
+  border: none; /* Remove borders */
+  color: black; /* Add a text color */
+  background-color: white;
+  font-size: 20px;
+  padding: 14px 28px; /* Add some padding */
+ 
+}
+
+.btn2:hover {
+  background-color: #f5e9f7;
+  cursor: pointer;
+}
+
+.app {
+  background-color: black;
+} /* Green */
+.app:hover {
+  background-color: #f5e9f7;
+}
+
+
+header { 
+  
+  background-image: url("mockuptxtsm.png");
+  background-size: cover;
+  background-position: center;
+  height: 120vh;
+  display: flex;
+  align-items: center;
+
+}
+
+/*header {
+  width:100%;
+  right: 100px;
+  height: 768px;
+  
+}
+.header h1 {
+  padding-right: 50px;
+  position: relative;
+  top: 18px;
+  left: 10px;
+} 
+
+
+  section {
+  padding-top: 50px;
+}
+
+
+
+
+
