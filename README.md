@@ -26,7 +26,7 @@ In the future, we hope to enhance the features of EmpowerHer by making it possib
 EmpowerHer seeks to continue to be the go-to for girls/women from every background to step into their best selves as they take charge of their health together.
 
 
-##TEAM
+## TEAM
 - Frontend & UI: Dariana Gonzalez
 - UI: Monique Bryan-Johnson
 - Frontend & UI: Damaris Campos
